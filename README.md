@@ -8,6 +8,6 @@
 5. Basic Postman
 6. Automatic testing in Postman
 
-<img src="./Pemula/fp_dicoding/image/result.png" width="500">
+<img src="./Pemula/fp_dicoding/image/result.png">
 
 ## Fundamental
